@@ -1,0 +1,24 @@
+/*
+            btnÞyngd.Enabled = true;
+            btnMjolk.Enabled = true;
+            btnUll.Enabled = true;
+            btnAfkvaemi.Enabled = true;
+            btnLaeri.Enabled = true;
+            btnFrjosemi.Enabled = true;
+            btnHryggur.Enabled = true;
+            btnRass.Enabled = true;*/
+
+
+
+
+
+/*
+            btnÞyngd.Enabled = false;
+            btnMjolk.Enabled = false;
+            btnUll.Enabled = false;
+            btnAfkvaemi.Enabled = false;
+            btnLaeri.Enabled = false;
+            btnFrjosemi.Enabled = false;
+            btnHryggur.Enabled = false;
+            btnRass.Enabled = false;
+            */
